@@ -76,8 +76,8 @@ Ao final deste desafio, você será capaz de:
 
 ## ✅ Conclusão
 
-Participar deste desafio foi mais do que apenas cumprir uma etapa da trilha — foi uma oportunidade real de me aprofundar em tecnologias que, até então, eu conhecia apenas de forma teórica. Utilizar o **Azure Speech Studio** e o **Language Studio** me fez enxergar na prática como a Inteligência Artificial pode transformar dados de voz e texto em insights poderosos.
-Durante os testes, me surpreendi com a precisão das transcrições de áudio, a capacidade de análise de sentimentos e a facilidade de extrair entidades de textos aparentemente simples. Também percebi o quanto essas soluções podem ser aplicadas no dia a dia de empresas e projetos pessoais — especialmente na análise de feedbacks, atendimento ao cliente e automação de tarefas.
+Participar deste desafio foi mais do que apenas cumprir uma etapa da trilha, foi uma oportunidade real de me aprofundar em tecnologias que, até então, eu conhecia apenas de forma teórica. Utilizar o **Azure Speech Studio** e o **Language Studio** me fez enxergar na prática como a Inteligência Artificial pode transformar dados de voz e texto em insights poderosos.
+Durante os testes, me surpreendi com a precisão das transcrições de áudio, a capacidade de análise de sentimentos e a facilidade de extrair entidades de textos aparentemente simples. Também percebi o quanto essas soluções podem ser aplicadas no dia a dia de empresas e projetos pessoais, especialmente na análise de feedbacks, atendimento ao cliente e automação de tarefas.
 Além disso, esse desafio reforçou algo que acredito muito: **a importância de documentar bem o processo técnico**. Poder revisar meus passos, registrar os aprendizados e organizar o repositório no GitHub não só ajuda na minha evolução como profissional, mas também pode inspirar e auxiliar outras pessoas que estão trilhando esse mesmo caminho.
 Sigo motivado a continuar aprendendo, aplicando e evoluindo. Esse foi mais um passo em direção ao meu objetivo de trabalhar com soluções inteligentes, unindo dados, linguagem e tecnologia para criar experiências cada vez mais eficientes.
 
