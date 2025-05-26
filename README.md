@@ -1,0 +1,1 @@
+# Desafio-Pr-tico-Azure-Speech-Studio-e-Language-Studio
